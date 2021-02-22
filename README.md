@@ -55,7 +55,7 @@ A aplicação foi desenvolvida na **frontweek** ministrada por [Násser Yousef A
 #### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
--   Fonte:  **[Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=Noto+Sans)**
+-   Fonte:  **[Mukta](https://fonts.google.com/specimen/Mukta)**
 -   Gerar README:  **[Markeditor](https://markeditor.netlify.app/)**
 
 #### **Hospedagem**  (**[Vercel](https://vercel.com/)**)
