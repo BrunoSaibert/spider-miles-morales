@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center" style="padding: 50px; background: #333333;">
-    <img alt="spider-miles-morales" title="#spider-miles-morales" src="https://github.com/BrunoSaibert/spider-miles-morales/blob/main/assets/img/spiderman-text.png" width="200" />
+    <img alt="spider-miles-morales" title="#spider-miles-morales" src="https://github.com/BrunoSaibert/spider-miles-morales/blob/main/assets/img/spiderman-text.png" width="300" />
 </h1>
 
 <h4 align="center"> 
