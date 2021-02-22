@@ -18,11 +18,11 @@
 </p>
 
 <h1 align="center" style="padding: 50px; background: #333333;">
-    <img alt="spider-miles-morales" title="#spider-miles-morales" src="https://raw.githubusercontent.com/BrunoSaibert/spider-miles-morales/main/public/images/upload/avatar.jpg" width="200" />
+    <img alt="spider-miles-morales" title="#spider-miles-morales" src="https://github.com/BrunoSaibert/spider-miles-morales/blob/main/assets/img/spiderman-text.png" width="200" />
 </h1>
 
 <h4 align="center"> 
-    📰  Blog Kethlyn Saibert - Andamento 📰
+    🕷🕸  Spider-man Miles Morales - Finalizado 🕸🕷
 </h4>
 
 <p align="center">
@@ -31,7 +31,7 @@
  <a href="#-autor">Autor</a>
 </p>
 
-![](https://raw.githubusercontent.com/BrunoSaibert/spider-miles-morales/main/screenshot.png)
+![](https://raw.githubusercontent.com/BrunoSaibert/spider-miles-morales/main/screenshot.jpg)
 
 ## [](https://github.com/BrunoSaibert/spider-miles-morales#-sobre) 💻 Sobre o projeto
 
