@@ -1,0 +1,51 @@
+@mixin responsive() {
+  @media screen and (max-width: 960px) {
+    @content;
+  }
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Mukta", sans-serif;
+}
+
+@import "partials/_colors.scss";
+
+body {
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+
+  background-color: $blue-dark;
+}
+
+img,
+svg {
+  display: block;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: $white;
+}
+
+.border {
+  border: 1px solid red;
+}
+
+p {
+  font-size: 14px;
+  color: $gray-3;
+  letter-spacing: 1px;
+  line-height: 140%;
+}
+
+@import "partials/_layout.scss";
+@import "partials/_menu.scss";
+@import "partials/_animations.scss";
+@import "partials/_spacing.scss";
